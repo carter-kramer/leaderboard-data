@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Greg P",
+    "g0Number": "G027410",
+    "activeWeeks": 22,
+    "weekly": {
+      "pol": 5,
+      "apb": 5086
+    },
+    "monthly": {
+      "pol": 30,
+      "apb": 30000,
+      "pb": {
+        "amount": 22000,
+        "month":  "10/2023"
+      }
+    },
+    "yearly": {
+      "pol": 60,
+      "apb": 60000,
+      "goal": 100000,
+      "runRate": 140000,
+      "goalRemaining": 40000
+    },
+    "bonusPaid": 22000
+  }
+]
